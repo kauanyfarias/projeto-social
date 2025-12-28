@@ -12,10 +12,10 @@ main{
 
 iframe{
     position: absolute;
-    top: 50%;
+    top: 50.5%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 269px;
+    width: 267px;
     height: 474px;
 }
 
@@ -39,5 +39,6 @@ main>a>img:hover{
 }
 
 iframe>img{
+    height: 100vw;
     
 }
